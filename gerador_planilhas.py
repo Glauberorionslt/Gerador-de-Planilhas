@@ -2,7 +2,7 @@ import openpyxl
 import os
 from time import sleep
 import pandas as pd
-print('y')
+
 # INICIANDO VARIÁVEIS
 #-----------------------------------------------------------------------------
 #SHEETS
